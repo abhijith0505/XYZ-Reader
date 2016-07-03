@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\P5\\XYZReader\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\P5\\XYZReader\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
