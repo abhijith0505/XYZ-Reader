@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\drawable\\padded_divider.xml"
     },
     {
-        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",

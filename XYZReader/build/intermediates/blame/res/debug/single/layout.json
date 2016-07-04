@@ -44,10 +44,6 @@
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -80,12 +76,12 @@
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -120,12 +116,12 @@
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -156,12 +152,12 @@
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
