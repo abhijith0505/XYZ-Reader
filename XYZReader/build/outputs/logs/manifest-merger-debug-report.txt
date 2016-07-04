@@ -31,7 +31,6 @@ ADDED from C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\src
 		ADDED from C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\src\main\AndroidManifest.xml:9:22-76
 application
 ADDED from C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v13:23.0.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
@@ -110,7 +109,6 @@ ADDED from C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\src
 		ADDED from C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\src\main\AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v13:23.0.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
