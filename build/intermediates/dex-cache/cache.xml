@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_57680edc8edb1d97800ece6ba49d0ceafe0bffe1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_444749116dc5e4f713a3c0822b09c9984afbeab4\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dev\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_7a51cf2541c6db4774dc65f462288b56e51ce9ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_0b2259baea31863801c5e91f5762818cabb8fd99\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.0.0_a12eb3c7c2be4527a62926d6310a74eb04eee5fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_2c88b017d62fab27b2533796bb8fd922d07980e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.0.0_a8e70053ff90bdcf16f27123b49a609b1e119525\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_7730f3f0740dfd76a8952920b6fd2ddd66d47a6a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.0_7f1e80d70f176049a751806ff59f5720cc3be298\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.0_fc5d30c1d463d95e3d8bf1a928132168a0ac2c5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_2f7a892a5348cfd95c5c186d403170ca9545ecce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.0_5abaf5c19d75aed9b77664583de7c3d6ff636820\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1d11cde7819cb9377d1712769dfc3023f8740ea8">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_696928979763af3e05f3df38f9692467d2e46c5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_1ac08d2e8a4976519565d98ea820db3716149c47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="22c2649ddb8efe2b04571b6ba34b2171125d16c1">
+        <dex dex="C:\Users\Abhijith\Desktop\Android NanoDegree\XYZ-Reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d2e6e4fdc27aa8d978802a0f98a5c477da0eb0c0\classes.dex" />
+    </item>
+
+</items>

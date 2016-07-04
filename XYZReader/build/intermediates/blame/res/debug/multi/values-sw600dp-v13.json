@@ -11,13 +11,13 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 291,
                         "endColumn": 68,
-                        "endOffset": 359
+                        "endOffset": 355
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 189
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 364,
+                        "startOffset": 360,
                         "endColumn": 69,
-                        "endOffset": 429
+                        "endOffset": 425
                     }
                 }
             },
@@ -45,16 +45,16 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 194,
-                    "endColumn": 69,
-                    "endOffset": 259
+                    "endColumn": 73,
+                    "endOffset": 263
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 434,
-                        "endColumn": 69,
+                        "startOffset": 430,
+                        "endColumn": 73,
                         "endOffset": 499
                     }
                 }
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 264,
-                    "endColumn": 78,
-                    "endOffset": 338
+                    "startOffset": 268,
+                    "endColumn": 75,
+                    "endOffset": 339
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
                         "startOffset": 504,
-                        "endColumn": 78,
-                        "endOffset": 578
+                        "endColumn": 75,
+                        "endOffset": 575
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 343,
-                    "endColumn": 75,
-                    "endOffset": 414
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 583,
-                        "endColumn": 75,
-                        "endOffset": 654
+                        "startOffset": 816,
+                        "endColumn": 58,
+                        "endOffset": 870
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 419,
-                    "endColumn": 58,
-                    "endOffset": 473
+                    "startOffset": 403,
+                    "endColumn": 70,
+                    "endOffset": 469
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 899,
-                        "endColumn": 58,
-                        "endOffset": 953
+                        "startOffset": 1111,
+                        "endColumn": 70,
+                        "endOffset": 1177
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 478,
-                    "endColumn": 70,
-                    "endOffset": 544
+                    "startOffset": 474,
+                    "endColumn": 67,
+                    "endOffset": 537
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1198,
-                        "endColumn": 70,
-                        "endOffset": 1264
+                        "startOffset": 1182,
+                        "endColumn": 67,
+                        "endOffset": 1245
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 549,
-                    "endColumn": 67,
-                    "endOffset": 612
+                    "startOffset": 542,
+                    "endColumn": 69,
+                    "endOffset": 607
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1269,
-                        "endColumn": 67,
-                        "endOffset": 1332
+                        "startOffset": 274,
+                        "endColumn": 69,
+                        "endOffset": 339
                     }
                 }
             },
@@ -158,9 +158,123 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 617,
+                    "startOffset": 612,
+                    "endColumn": 70,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 70,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 71,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 71,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 57,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 57,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 57,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 57,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 105,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 105,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 52,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 52,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1030,
                     "endColumn": 56,
-                    "endOffset": 669
+                    "endOffset": 1082
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -175,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 674,
+                    "startOffset": 1087,
                     "endColumn": 52,
-                    "endOffset": 722
+                    "endOffset": 1135
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -194,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 727,
+                    "startOffset": 1140,
                     "endColumn": 54,
-                    "endOffset": 777
+                    "endOffset": 1190
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -213,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 782,
+                    "startOffset": 1195,
                     "endColumn": 56,
-                    "endOffset": 834
+                    "endOffset": 1247
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -232,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 839,
+                    "startOffset": 1252,
                     "endColumn": 65,
-                    "endOffset": 900
+                    "endOffset": 1313
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -251,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 905,
+                    "startOffset": 1318,
                     "endColumn": 58,
-                    "endOffset": 959
+                    "endOffset": 1372
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -270,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 964,
+                    "startOffset": 1377,
                     "endColumn": 51,
-                    "endOffset": 1011
+                    "endOffset": 1424
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -289,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1016,
+                    "startOffset": 1429,
                     "endColumn": 53,
-                    "endOffset": 1065
+                    "endOffset": 1478
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -308,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1070,
+                    "startOffset": 1483,
                     "endColumn": 41,
-                    "endOffset": 1107
+                    "endOffset": 1520
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -327,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1112,
+                    "startOffset": 1525,
                     "endColumn": 94,
-                    "endOffset": 1202
+                    "endOffset": 1615
                 },
                 "from": {
                     "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -346,20 +460,60 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1207,
+                    "startOffset": 1620,
                     "endColumn": 54,
-                    "endOffset": 1257
+                    "endOffset": 1670
                 },
                 "from": {
-                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endColumn": 54,
+                        "endOffset": 1300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1675,
+                    "endColumn": 62,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 62,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1915
+                },
+                "from": {
+                    "file": "C:\\Users\\Abhijith\\Desktop\\Android NanoDegree\\XYZ-Reader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1337,
-                        "endColumn": 54,
-                        "endOffset": 1387
+                        "startOffset": 1263,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1440
                     }
                 }
             }
